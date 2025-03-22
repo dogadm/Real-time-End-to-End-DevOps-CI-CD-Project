@@ -392,6 +392,8 @@ Save the configuration.
 
 - The pipeline will build a new Docker image, push it to Docker Hub, update the Kubernetes deployment, and deploy the updated application using ArgoCD.
 
+---
+
 # Congratulations!!!
 You have successfully set up a real-time end-to-end DevOps CI/CD pipeline using Jenkins, Docker, Kubernetes, and ArgoCD. You can now make changes to your code, trigger Jenkins pipelines, build Docker images, deploy them to the Kubernetes cluster, and manage the deployments using ArgoCD.
 
