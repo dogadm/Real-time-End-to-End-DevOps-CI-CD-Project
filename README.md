@@ -1,4 +1,4 @@
-# Real-time End-to-End DevOps CI/CD Project
+# FlowForge: Real-Time DevOps CI/CD Pipeline with Jenkins, Docker, K8s & ArgoCD
 
 
 ##### An end-to-end DevOps CI/CD project using Jenkins, Docker, Kubernetes, Gitlab and ArgoCD. The aim is to provide a real-time DevOps workflow for building, testing, and deploying using a  Python application.
