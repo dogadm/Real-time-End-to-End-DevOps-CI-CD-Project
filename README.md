@@ -394,3 +394,11 @@ Save the configuration.
 
 # Congratulations!!!
 You have successfully set up a real-time end-to-end DevOps CI/CD pipeline using Jenkins, Docker, Kubernetes, and ArgoCD. You can now make changes to your code, trigger Jenkins pipelines, build Docker images, deploy them to the Kubernetes cluster, and manage the deployments using ArgoCD.
+
+---
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dolapoadeola.framer.website/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeoladolapo/)
+
+---
